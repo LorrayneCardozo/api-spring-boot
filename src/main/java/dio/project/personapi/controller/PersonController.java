@@ -2,7 +2,6 @@ package dio.project.personapi.controller;
 
 import dio.project.personapi.dto.request.PersonDTO;
 import dio.project.personapi.dto.response.MessageResponse;
-import dio.project.personapi.entity.Person;
 import dio.project.personapi.exceptions.PersonNotFoundException;
 import dio.project.personapi.service.PersonService;
 import lombok.AllArgsConstructor;
