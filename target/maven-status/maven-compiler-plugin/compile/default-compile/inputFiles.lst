@@ -1,2 +1,12 @@
-/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/PersonController.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/dto/request/PhoneDTO.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/entity/Phone.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/entity/Person.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/repository/PersonRepository.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/controller/PersonController.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/dto/response/MessageResponse.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/dto/request/PersonDTO.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/enums/PhoneType.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/exceptions/PersonNotFoundException.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/service/PersonService.java
 /home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/PersonapiApplication.java
+/home/lorrayne/Documentos/DIO/api-spring-boot/src/main/java/dio/project/personapi/mapper/PersonMapper.java

@@ -1,5 +1,5 @@
-dio/project/personapi/entity/Phone.class
 dio/project/personapi/entity/Person.class
-dio/project/personapi/entity/Phone$PhoneBuilder.class
 dio/project/personapi/enums/PhoneType.class
 dio/project/personapi/entity/Person$PersonBuilder.class
+dio/project/personapi/entity/Phone.class
+dio/project/personapi/entity/Phone$PhoneBuilder.class
